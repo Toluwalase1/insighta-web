@@ -1,0 +1,12 @@
+# dependencies
+src/node_modules/
+
+# next.js
+src/.next/
+
+# env files
+src/.env*
+
+# task docs
+stage3_tasklist.md
+phase5_agent_transfer.md
